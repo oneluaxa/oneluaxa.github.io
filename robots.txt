@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oneluaxa.github.io/Ryg/sitemap_index.txt
+Sitemap: https://oneluaxa.github.io/iuM/sitemap_index.txt
+Sitemap: https://oneluaxa.github.io/kMu/sitemap_index.txt
+Sitemap: https://oneluaxa.github.io/mQo/sitemap_index.txt
